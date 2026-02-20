@@ -1,7 +1,7 @@
 # E-commerce Data Warehouse Project & # SQL Data Exploration Project
 
 # E-commerce-DataWarehouse-
-End-to-end data warehouse project using SQL Server. Includes staging, core, and analytics layers with ETL logic.
+End-to-end data warehouse & exploration projects using SQL Server. Includes staging, core, and analytics layers with ETL logic.
 
 
 ## 📌 Project Overview
